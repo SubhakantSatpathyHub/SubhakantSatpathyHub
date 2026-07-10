@@ -12,7 +12,7 @@
   
 - 🌱 I’m currently learning **Django, Flask**
 
-- 💬 Ask me about **Python,Javascript,React,Web Technology,SQL**  
+- 💬 Ask me about **Python, Javascript, React, Web Technology, SQL**  
 
 - 📫 How to reach me **satpathysubhakant28@gmail.com**
 
